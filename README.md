@@ -1,1 +1,1 @@
-# Zero-shot-Learning-for-Signal-Recognition(SR2CNN)
+# SR2CNN: Zero-Shot Learning for Signal Recognition
